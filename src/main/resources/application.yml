@@ -1,0 +1,12 @@
+logging:
+  level:
+    org.springframework: ERROR
+    com.network.analysis: DEBUG
+
+spring:
+  profiles:
+    active: dev
+  main:
+    banner-mode: off
+
+bootstrap-servers: localhost:9092,localhost:9093,localhost:9094
