@@ -1,4 +1,4 @@
-# Project Title
+# Network Packet Stream Processing
 
 Proof of concept for Real Time Processing through Flink Kafka Data Pipeline. 
 
